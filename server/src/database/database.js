@@ -7,6 +7,6 @@ export const sequelize = new Sequelize(
     {
         host:"localhost",
         dialect:"postgres", //tipo base de datos
-        port: "5433"
+        port: "5432"
     }
 );
