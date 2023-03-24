@@ -5,16 +5,24 @@
 * Postgresql
     - Crear dabase de datos con nombre: iacc
     - en el fichero server/src/database/database.js Ajustar parametro a conveniencia
+    
+#### Backend:
+* NodeJS
+#### Frontend:
+* React
 #
 
 #### Configuración y arranque server y client:
-* server nodejs:
-    - npm install
-    - npm run start
-    
-* client react:
-    - npm install
-    - npm run start
+#### Server:
+     npm install
+     npm run start
+#### Client:
+    npm install
+    npm run start
+#
+
+![image](https://user-images.githubusercontent.com/5326824/227522767-f5ae5836-4ba5-490a-a6fd-b383c3ca9b92.png)
+
 #
 
 ## Parte 2: Invocaciones Curl
